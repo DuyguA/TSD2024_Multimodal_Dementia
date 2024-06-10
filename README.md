@@ -15,3 +15,8 @@ We present our results on applying cross-modal attention to dementia detection p
 For both architectures, cd into the directory and run `run.py`.
 
 
+## Citation
+
+Coming soon.
+
+
