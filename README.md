@@ -25,7 +25,13 @@ For the text explainability part, we used good old LIME for RoBERTa. For spectro
 In the following LIME result, blue color indicates tokens that are indicative of the control group, while the orange color indicates tokens that are used mainly by AD patients. This transcript and spectrogram belongs to control group patient, LIME visualization points to repeated words and short words mainly. Coming to the spectrogram, ViT focused on both speech and silence parts of the audio.
 
 
-<img src="images/dementia-trans.png" width="425"/> <img src="images/dementia-spec.png" width="425"/> 
+<p float="left">
+  <img src="images/dementia-trans.png" width="500" />
+  <img src="images/dementia-spec.png" width="200" /> 
+</p>
+
+
+
 
 ## Citation and publication
 To appear in TSD 2024, citation is coming soon.
