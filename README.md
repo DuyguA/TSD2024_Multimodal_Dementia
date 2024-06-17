@@ -26,8 +26,8 @@ In the following LIME result, blue color indicates tokens that are indicative of
 
 
 <p float="left">
-  <img src="images/dementia-trans.png" width="500" />
-  <img src="images/dementia-spec.png" width="200" /> 
+  <img src="images/trans.png" width="500" />
+  <img src="images/spec.png" width="200" /> 
 </p>
 
 
