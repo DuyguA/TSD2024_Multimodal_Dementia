@@ -1,6 +1,6 @@
 # Explainable Multimodal Fusion for Dementia Detection from Text and Speech
 
-This repository contains code for the TSD 2024 paper, Explainable Multimodal Fusion for Dementia Detection from Text and Speech.
+This repository contains code for the TSD 2024 paper, [Explainable Multimodal Fusion for Dementia Detection from Text and Speech](https://link.springer.com/chapter/10.1007/978-3-031-70566-3_21).
 
 ## Overview
 
