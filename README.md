@@ -33,8 +33,25 @@ In the following LIME result, blue color indicates tokens that are indicative of
 
 
 
-## Citation and publication
-To appear in TSD 2024, citation is coming soon.
+## Citation
+
+```
+@InProceedings{10.1007/978-3-031-70566-3_21,
+author="Altinok, Duygu",
+editor="N{\"o}th, Elmar
+and Hor{\'a}k, Ale{\v{s}}
+and Sojka, Petr",
+title="Explainable Multimodal Fusion for Dementia Detection From Text and Speech",
+booktitle="Text, Speech, and Dialogue",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="236--251",
+abstract="Alzheimer's dementia (AD) has significant negative impacts on patients, their families, and society as a whole, both psychologically and economically. Recent research has explored combining speech and transcript modalities to leverage linguistic and acoustic features. However, many existing multimodal studies simply combine speech and text representations, use majority voting, or average predictions from separately trained text and speech models. To overcome these limitations, our article focuses on explainability and investigates the fusion of speech and text modalities using cross-attention. We convert audio to Log-Mel spectrograms and utilize text and image transformers (RoBERTa and ViT) for processing transcripts and spectrograms, respectively. By incorporating a cross-attention layer, we analyze the impact on accuracy. Our multimodal fusion model achieves 90.01{\%} accuracy on the ADReSS Challenge dataset. Additionally, we explore the explainability of both modalities through transformer visualization techniques and an analysis of the vocabulary used by dementia and non-dementia classes.",
+isbn="978-3-031-70566-3"
+}
+
+```
 
 
 
